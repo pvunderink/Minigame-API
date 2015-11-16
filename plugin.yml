@@ -1,0 +1,4 @@
+name: MinigameAPI
+version: 1.1
+main: swordman.minigame.api.MinigameAPI
+author: swordman407
